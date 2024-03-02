@@ -4,3 +4,9 @@ approver_map:
   approver_category: '78'
   approver_ids: HRVIJAY
   approver_emails: hridyapraise.vijayamohan@chubb.com
+name: TestFile
+approver_map:
+- map_details: Applicaiton Name & Respective Approvers
+  approver_category: '78'
+  approver_ids: abc
+  approver_emails: abc@chubb.com
