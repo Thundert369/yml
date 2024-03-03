@@ -1,0 +1,5 @@
+approver_map:
+- map_details: Applicaiton Name & Respective Approvers
+  approver_category: B360
+  dwh: xyz
+  database: 123
