@@ -1,4 +1,3 @@
-snowflake:
 - map_details: Applicaiton Name & Respective Approvers
   approver_category: '2'
   approver_ids: abc
