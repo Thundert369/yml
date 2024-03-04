@@ -13,7 +13,6 @@ approver_map:
   approver_category: B380
   approver_ids: abc
   approver_emails: abc@chubb.com
-
 approver_map:
 - map_details: Applicaiton Name & Respective Approvers
   approver_category: B390
