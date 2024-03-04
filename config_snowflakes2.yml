@@ -14,3 +14,8 @@ approver_map:
   approver_ids: abc
   approver_emails: abc@chubb.com
 
+approver_map:
+- map_details: Applicaiton Name & Respective Approvers
+  approver_category: B390
+  approver_ids: HRVIJAY
+  approver_emails: hridyapraise.vijayamohan@chubb.com
