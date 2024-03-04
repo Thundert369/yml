@@ -1,9 +1,9 @@
 approver_map: null
 snowflake:
 - map_details: Applicaiton Name & Respective Approvers
-  approver_category: '1'
-  approver_ids: HRVIJAY
-  approver_emails: hridyapraise.vijayamohan@chubb.com
+  approver_category: '2'
+  approver_ids: abc
+  approver_emails: abc@chubb.com
 -map_details: Applicaiton Name & Respective Approvers
 approver_category: B360
 approver_ids: HRVIJAY
