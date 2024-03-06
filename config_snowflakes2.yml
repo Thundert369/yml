@@ -4,3 +4,12 @@ approver_category: B360
 approver_ids: HRVIJAY
 approver_emails: hridyapraise.vijayamohan@chubb.com
 
+approver_map: null
+-map_details: Applicaiton Name & Respective Approvers
+approver_category: B360
+approver_ids: HRVIJAY
+approver_emails: hridyapraise.vijayamohan@chubb.com
+? - map_details
+: - approver_category: A
+    approver_ids: HRVIJAY
+    approver_emails: hridyapraise.vijayamohan@chubb.com
