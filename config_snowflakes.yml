@@ -1,4 +1,8 @@
-approver_map: 
+approver_map:
+- map_details: Applicaiton Name & Respective Approvers
+  approver_category: abc
+  approver_ids: un
+  approver_emails: xyz.vijayamohan@chubb.com
 -map_details: Applicaiton Name & Respective Approvers
 approver_category: B360
 approver_ids: HRVIJAY
