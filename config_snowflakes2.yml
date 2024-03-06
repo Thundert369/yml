@@ -1,6 +1,1 @@
-approver_map:
-- - 'map_details: Applicaiton Name & Respective Approvers'
-? - approver_map
-: approver_category: hri
-  approver_ids: hri
-  approver_emails: hri.vijayamohan@chubb.com
+
