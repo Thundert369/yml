@@ -1,1 +1,5 @@
-"Hello"
+approver_map:
+- map_details: Applicaiton Name & Respective Approvers
+  approver_category: '123'
+  approver_ids: abc
+  approver_emails: xyz.vijayamohan@chubb.com
