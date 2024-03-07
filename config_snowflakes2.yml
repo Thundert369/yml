@@ -5,6 +5,15 @@ approver_map:
   approver_emails: xyz.vijayamohan@chubb.com
 - map_details: Applicaiton Name & Respective Approvers
   approver_category: '456'
-  approver_ids: abc
+  approver_ids: def
   approver_emails: xyz.vijayamohan@chubb.com
+- map_details: Applicaiton Name & Respective Approvers
+  approver_category: '123'
+  approver_ids: ghi
+  approver_emails: xyz.vijayamohan@chubb.com
+- map_details: Applicaiton Name & Respective Approvers
+  approver_category: '456'
+  approver_ids: jkl
+  approver_emails: xyz.vijayamohan@chubb.com
+
 
