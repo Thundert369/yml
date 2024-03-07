@@ -18,8 +18,15 @@ approver_map:
   approver_category: '456'
   approver_ids: jkl
   approver_emails: xyz.vijayamohan@chubb.com
-  
+
 - map_details: Applicaiton Name & Respective Approvers
   approver_category: B360
   approver_ids: xyz
+  approver_emails: hridyapraise.vijayamohan@chubb.com
+
+
+
+- map_details: Applicaiton Name & Respective Approvers
+  approver_category: B360
+  approver_ids: hp
   approver_emails: hridyapraise.vijayamohan@chubb.com
